@@ -61,5 +61,5 @@ yarn-debug.log*
 yarn-error.log*
 
 #other folders
-unfoldnest/
+Project-unfoldnest/
 .vscode
