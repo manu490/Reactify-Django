@@ -59,4 +59,7 @@ var/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#other folders
 unfoldnest/
+.vscode
