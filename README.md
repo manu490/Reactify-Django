@@ -6,7 +6,7 @@ This project is about integrating React with Django.
 
 ### Tech
 - React 16.12.0
-- Django 3.0.1
+- Django 3.0.7
 - Django Rest Framework 3.11.0
 - Django CORS Headers 3.2.0
 - Python 3.7.5
